@@ -20,3 +20,4 @@
 -----------------------------------
 
 Output Decision Tree:
+![](https://github.com/danielchristopher513/Customer_churn_prediction_using_machine_learning/blob/main/Output_Decision_Tree.pdf)
